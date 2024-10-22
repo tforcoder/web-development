@@ -1,0 +1,35 @@
+img{
+    height: 300px;
+    padding: 50px;
+    margin-top:70px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(101, 198, 198);
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+
+}
+.student{
+    display: flex;
+    text-align: center;
+}
+.Main{
+background-color: rgb(250, 188, 108);
+font-size: 30px;
+padding: 20px;
+}
+.child{
+    background-color: bisque;
+    display: flex;
+    font-size: 25px;
+}
+.child2{
+background-color: rgb(184, 163, 131);
+display: flex;
+font-size: 25px;
+}
+.index{
+    padding: 80px;
+}
